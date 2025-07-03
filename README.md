@@ -15,22 +15,14 @@ A fully-configured modern frontend boilerplate using React, TypeScript, Vite, pn
 
 ---
 
-## 🛠️ Project Setup
+### ✅ Clone and start the app
 
-### ✅ 1. Install pnpm globally
-
-```bash
-npm install -g pnpm
+```
+git clone git@github.com:shubham43MP/fe-boilerplate.git
 ```
 
----
-
-### ✅ 2. Create the app
-
 ```bash
-pnpm create vite
-# → Choose: React + TypeScript
-cd your-project
+cd fe-boilerplate
 pnpm install
 ```
 
